@@ -1,0 +1,13 @@
+## Instrument
+This is a simple web project!
+
+## Environmental Required 
+OS: windows MacOs Linux will be ok.
+python version: 2.7(tested) or higher(not tested)!
+webbrowser: Chrome Firefox will be ok.
+
+## Running
+In the terminal
+`python entertainment.py`
+then the process will open your web browser so you can see my
+Movie Trailer Website.s
