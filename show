@@ -1,0 +1,24 @@
+[33mcommit 826686b740c7b0d55385e26b4253ba2f46bd5274[m
+Author: bmyell <1812630796@qq.com>
+Date:   Fri Aug 25 14:52:27 2017 +0800
+
+    change the Movie class construct function
+
+[33mcommit 97d994454ff7a8768ae92a1e216467bf18641f1e[m
+Merge: 68549a0 eab57c4
+Author: bmyell <1812630796@qq.com>
+Date:   Wed Aug 23 15:10:27 2017 +0800
+
+    Merge branch 'master' of https://github.com/bmyell/Udacity.learn
+
+[33mcommit 68549a0408b817760014a7bc9468546804359edb[m
+Author: bmyell <1812630796@qq.com>
+Date:   Wed Aug 23 15:01:26 2017 +0800
+
+    first commit
+
+[33mcommit eab57c48c401dcfc5a6119ca906731214af128c2[m
+Author: Liuzhilei <1812630796@qq.com>
+Date:   Wed Aug 23 14:39:56 2017 +0800
+
+    Initial commit
